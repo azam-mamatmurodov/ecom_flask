@@ -1,0 +1,272 @@
+[
+  {
+    "user": {
+      "password": "system",
+      "nickname": "sad.water",
+      "last_name": "Daugherty",
+      "first_name": "Markus",
+      "email": "wrong26@outlook.com",
+      "avatar": "https://robohash.org/deep.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "American Express",
+      "number": "37682965597862",
+      "expiry": "10/26",
+      "cvv": "345"
+    },
+    "companyName": "Zathdinjob",
+    "companyIndustry": "Health care",
+    "companyDepartment": "customer service support",
+    "address": {
+      "zip": "61523",
+      "street": "2598 Central Avenue Passage",
+      "state": "New Jersey",
+      "country": "Chad",
+      "city": "Galena",
+      "building": "2871"
+    }
+  },
+  {
+    "user": {
+      "password": "password",
+      "nickname": "rider-sunset",
+      "last_name": "Paucek",
+      "first_name": "Dustin",
+      "email": "adolf@gmail.com",
+      "avatar": "https://robohash.org/flat.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "Visa",
+      "number": "542059169740254",
+      "expiry": "10/25",
+      "cvv": "296"
+    },
+    "companyName": "Zotzoomnix",
+    "companyIndustry": "Computer",
+    "companyDepartment": "purchasing",
+    "address": {
+      "zip": "07436",
+      "street": "1548 Crescent Street Extensions",
+      "state": "Virginia",
+      "country": "Lesotho",
+      "city": "Macedonia",
+      "building": "83851"
+    }
+  },
+  {
+    "user": {
+      "password": "admin",
+      "nickname": "sir-silence-48",
+      "last_name": "Oberbrunner",
+      "first_name": "Yvonne",
+      "email": "cry48@hotmail.com",
+      "avatar": "https://robohash.org/multiply.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "American Express",
+      "number": "34693505445327",
+      "expiry": "10/25",
+      "cvv": "230"
+    },
+    "companyName": "Sanquote",
+    "companyIndustry": "Water",
+    "companyDepartment": "operations",
+    "address": {
+      "zip": "26495",
+      "street": "9097 Ivy Court Drive",
+      "state": "Montana",
+      "country": "Holy See (Vatican City State)",
+      "city": "Oriska",
+      "building": "154"
+    }
+  },
+  {
+    "user": {
+      "password": "1111",
+      "nickname": "forsaken-feather-30",
+      "last_name": "Dibbert",
+      "first_name": "Monte",
+      "email": "molestiae@yahoo.com",
+      "avatar": "https://robohash.org/neighbor.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "Visa",
+      "number": "530140308596205",
+      "expiry": "10/20",
+      "cvv": "743"
+    },
+    "companyName": "Ranktonlam",
+    "companyIndustry": "Food",
+    "companyDepartment": "human resources",
+    "address": {
+      "zip": "95139",
+      "street": "1691 Sheffield Drive Land",
+      "state": "North Carolina",
+      "country": "Ecuador",
+      "city": "Postville",
+      "building": "042"
+    }
+  },
+  {
+    "user": {
+      "password": "default",
+      "nickname": "baroness.water.8",
+      "last_name": "Lehner",
+      "first_name": "Phoebe",
+      "email": "old@hotmail.com",
+      "avatar": "https://robohash.org/qui.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "Discover Card",
+      "number": "453996345953",
+      "expiry": "10/21",
+      "cvv": "775"
+    },
+    "companyName": "Retom",
+    "companyIndustry": "Defense",
+    "companyDepartment": "accounting",
+    "address": {
+      "zip": "23965",
+      "street": "5768 Buttonwood Drive Pines",
+      "state": "California",
+      "country": "Cook Islands",
+      "city": "Grand Marais",
+      "building": "613"
+    }
+  },
+  {
+    "user": {
+      "password": "0987",
+      "nickname": "mini.paper",
+      "last_name": "Flatley",
+      "first_name": "Sophie",
+      "email": "abdul@outlook.com",
+      "avatar": "https://robohash.org/process.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "American Express",
+      "number": "601110237315773",
+      "expiry": "10/27",
+      "cvv": "9059"
+    },
+    "companyName": "Tantraxbam",
+    "companyIndustry": "Entertainment",
+    "companyDepartment": "operations",
+    "address": {
+      "zip": "14976",
+      "street": "8013 Willow Lane Trail",
+      "state": "Washington",
+      "country": "Eritrea",
+      "city": "Lizton",
+      "building": "4853"
+    }
+  },
+  {
+    "user": {
+      "password": "customer",
+      "nickname": "intense-dawn-38",
+      "last_name": "Lemke",
+      "first_name": "Ezekiel",
+      "email": "whole93@gmail.com",
+      "avatar": "https://robohash.org/made.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "American Express",
+      "number": "601155012210285",
+      "expiry": "10/21",
+      "cvv": "9318"
+    },
+    "companyName": "Zun-way",
+    "companyIndustry": "Construction",
+    "companyDepartment": "legal",
+    "address": {
+      "zip": "48448",
+      "street": "169 11th Street Mill",
+      "state": "Missouri",
+      "country": "Faroe Islands",
+      "city": "Ottertail",
+      "building": "29509"
+    }
+  },
+  {
+    "user": {
+      "password": "qwerty",
+      "nickname": "bad-surf",
+      "last_name": "Eichmann",
+      "first_name": "Abbey",
+      "email": "afraid@yahoo.com",
+      "avatar": "https://robohash.org/me.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "Discover Card",
+      "number": "37535821496120",
+      "expiry": "10/21",
+      "cvv": "030"
+    },
+    "companyName": "Groovetex",
+    "companyIndustry": "Manufacturing",
+    "companyDepartment": "finance",
+    "address": {
+      "zip": "06401",
+      "street": "6346 14th Street Meadows",
+      "state": "Utah",
+      "country": "Turks and Caicos Islands",
+      "city": "Florence",
+      "building": "193"
+    }
+  },
+  {
+    "user": {
+      "password": "123456",
+      "nickname": "brave.night",
+      "last_name": "Bernier",
+      "first_name": "Walker",
+      "email": "ella@outlook.com",
+      "avatar": "https://robohash.org/dignissimos.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "American Express",
+      "number": "34434796160195",
+      "expiry": "10/25",
+      "cvv": "774"
+    },
+    "companyName": "Triocare",
+    "companyIndustry": "Aerospace",
+    "companyDepartment": "communication",
+    "address": {
+      "zip": "13607",
+      "street": "9580 Grand Avenue Gateway",
+      "state": "Tennessee",
+      "country": "Sao Tome and Principe",
+      "city": "Salmon Cove",
+      "building": "57443"
+    }
+  },
+  {
+    "user": {
+      "password": "google",
+      "nickname": "endless.grass.2",
+      "last_name": "Bednar",
+      "first_name": "Germaine",
+      "email": "miss@hotmail.com",
+      "avatar": "https://robohash.org/live.png?size=300x300"
+    },
+    "credit_card": {
+      "type": "MasterCard",
+      "number": "601123794234026",
+      "expiry": "10/26",
+      "cvv": "009"
+    },
+    "companyName": "Driptechi",
+    "companyIndustry": "Agriculture",
+    "companyDepartment": "sales",
+    "address": {
+      "zip": "63062",
+      "street": "487 6th Street West Throughway",
+      "state": "Oregon",
+      "country": "Senegal",
+      "city": "Cory",
+      "building": "5727"
+    }
+  }
+]
