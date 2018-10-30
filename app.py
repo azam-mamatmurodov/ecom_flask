@@ -2,11 +2,14 @@ import json
 import os
 from flask import Flask, jsonify, send_from_directory, request
 from flask_cors import CORS
+import socket
 
+HOSTNAME = socket.gethostbyname(socket.gethostname())
+PORT = 8081
 app = Flask(__name__)
 CORS(app)
 
-BASE_URL = "http://127.0.0.1:5000"
+BASE_URL = "http://{}:{}".format(HOSTNAME, PORT)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 
@@ -89,4 +92,4 @@ def read_file(media_name):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=8081)
+    app.run(debug=True, host=HOSTNAME, port=PORT)
