@@ -5,6 +5,9 @@ from flask_cors import CORS
 import socket
 
 HOSTNAME = socket.gethostbyname(socket.gethostname())
+if HOSTNAME != '127.0.0.1':
+    HOSTNAME = '18.191.138.72'
+
 PORT = 8081
 app = Flask(__name__)
 CORS(app)
