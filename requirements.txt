@@ -15,7 +15,7 @@ Flask-RESTful==0.3.6
 hyperlink==18.0.0
 idna==2.7
 incremental==17.5.0
-ItsDangerous==1.0.0
+ItsDangerous
 Jinja2==2.10
 lxml==4.2.5
 MarkupSafe==1.0
