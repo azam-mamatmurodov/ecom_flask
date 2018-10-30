@@ -5,14 +5,15 @@ from flask_cors import CORS
 import socket
 
 HOSTNAME = socket.gethostbyname(socket.gethostname())
+PUBLIC_HOST = HOSTNAME
 if HOSTNAME != '127.0.0.1':
-    HOSTNAME = '18.191.138.72'
-
+    PUBLIC_HOST = '18.191.138.72'
 PORT = 8081
+
 app = Flask(__name__)
 CORS(app)
 
-BASE_URL = "http://{}:{}".format(HOSTNAME, PORT)
+BASE_URL = "http://{}:{}".format(PUBLIC_HOST, PORT)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 
